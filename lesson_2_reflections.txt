@@ -8,3 +8,6 @@ organized? How would branches help?
 
 when you want to create an experimental feature, with branches you can work in 
 parallel without modifying the master branch.
+
+How do the diagrams help you visualize the branch structure?
+    because is more easy to understand
