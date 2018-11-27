@@ -3,5 +3,8 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
 
-
+when you want to create an experimental feature, with branches you can work in 
+parallel without modifying the master branch.
